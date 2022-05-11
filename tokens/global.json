@@ -34,5 +34,14 @@
   "purple": {
     "value": "purple",
     "type": "color"
+  },
+  "space-100": {
+    "value": "72px",
+    "type": "spacing"
+  },
+  "orange-100": {
+    "value": "#FF7910",
+    "type": "color",
+    "description": "Orange like a pumpkin"
   }
 }
