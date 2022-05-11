@@ -15,6 +15,10 @@
     "value": "blue",
     "type": "color"
   },
+  "green-100": {
+    "value": "green",
+    "type": "color"
+  },
   "primary-100": {
     "value": "blue",
     "type": "color"
