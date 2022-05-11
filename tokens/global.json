@@ -43,5 +43,10 @@
     "value": "#FF7910",
     "type": "color",
     "description": "Orange like a pumpkin"
+  },
+  "gold-100": {
+    "value": "#DFB318",
+    "type": "color",
+    "description": "This is a gold token"
   }
 }
