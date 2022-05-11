@@ -48,5 +48,10 @@
     "value": "#DFB318",
     "type": "color",
     "description": "This is a gold token"
+  },
+  "gold-200": {
+    "value": "gold",
+    "type": "color",
+    "description": "This is a gold token times two"
   }
 }
