@@ -1,0 +1,34 @@
+{
+  "space-0": {
+    "value": 0,
+    "type": "spacing"
+  },
+  "space-1": {
+    "value": "4px",
+    "type": "spacing"
+  },
+  "space-2": {
+    "value": "6px",
+    "type": "spacing"
+  },
+  "blue-100": {
+    "value": "blue",
+    "type": "color"
+  },
+  "primary-100": {
+    "value": "blue",
+    "type": "color"
+  },
+  "border-sm": {
+    "value": "4px",
+    "type": "borderRadius"
+  },
+  "red": {
+    "value": "red",
+    "type": "color"
+  },
+  "purple": {
+    "value": "purple",
+    "type": "color"
+  }
+}

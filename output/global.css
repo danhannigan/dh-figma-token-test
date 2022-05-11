@@ -1,0 +1,10 @@
+.global-theme {
+          --space-0: 0;
+  --space-1: 4px;
+  --space-2: 6px;
+  --blue-100: blue;
+  --primary-100: blue;
+  --border-sm: 4px;
+  --red: red;
+  --purple: purple;
+      }
